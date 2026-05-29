@@ -1,0 +1,4 @@
+version: 1
+display_name: Patent Disclosure Generator
+short_description: 中文发明专利技术交底书生成、补全、审校与迭代优化 skill
+default_prompt: 使用专利技术交底书生成器，把我的技术材料整理为可交给专利代理人继续处理的中文发明专利交底材料。请先判断材料成熟度，必要时追问关键缺口，再提炼技术问题-技术方案-技术效果闭环，区分核心发明点、优选实施和工程补丁，并检查公式、参数、图号和术语一致性。
